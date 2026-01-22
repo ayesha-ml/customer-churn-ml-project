@@ -1,6 +1,6 @@
-# 📉 Customer Churn ML Project
+# Customer Churn ML Project
 
-## 🧠 Project Overview
+## Project Overview
 This project analyzes customer churn in the telecom industry and builds predictive models to identify high-risk customers.  
 It combines **exploratory data analysis (EDA)**, **unsupervised clustering**, and **classification modeling** to deliver actionable insights that can improve customer retention.
 
@@ -12,7 +12,7 @@ It combines **exploratory data analysis (EDA)**, **unsupervised clustering**, an
 
 ---
 
-## 🔍 Steps & Methodology
+## Steps & Methodology
 1. **Data Cleaning & Preprocessing**
    - Converted data types
    - Handled missing values
@@ -40,19 +40,19 @@ It combines **exploratory data analysis (EDA)**, **unsupervised clustering**, an
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Techniques:** EDA, Feature Engineering, Clustering (K-Means), Random Forest Feature Selection, Classification Models, Model Evaluation
 
 ---
 
-## 📊 Results
+## Results
 - Identified high-risk customer segments with unique churn patterns
 - Provided actionable recommendations to reduce churn rates
 
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/ayesha-ml/customer-churn-ml-project.git
